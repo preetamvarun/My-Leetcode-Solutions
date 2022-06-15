@@ -1,4 +1,4 @@
 # Ds-Algo
 My data structures and algorithms learning journey
 
-Currently, I am learning recursions
+Currently, I am learning trees
